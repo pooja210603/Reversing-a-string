@@ -7,16 +7,10 @@ int main()
     char str[20];
     printf("Enter the string to be reversed: \n");
     scanf("%s",&str);
-    len=strlen(str);
+    len=strlen(str); //Calculating the length of string entered
     
-    char arr[len];
-    for(i=0;i<len;i++)
-    {
-        arr[i]=str[i];
-        
-    }
     printf("Reversed string is: \n");
-    for(i=len-1;i>=0;i--)
+    for(i=len-1;i>=0;i--) // Backward loop applied to print the array in reverse.
     {
         printf("%c",str[i]);
     }
