@@ -17,5 +17,6 @@ printf("%c", test[0]);
 3. Calculate the length of the string by using the **strlen** function.
 4. Apply a for loop from (counter variable= length-1) initially and decrementing the value till  (counter variable>=0) , printing the array in reverse.
 
-![image](https://user-images.githubusercontent.com/125560933/221756378-90eb0df0-b70c-4c44-9c99-8c2a84d4cb5f.png)
+![image](https://user-images.githubusercontent.com/125560933/221756539-b15ef191-8538-4519-b0a0-58cfec8d50db.png)
+
 
