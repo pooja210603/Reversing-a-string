@@ -19,4 +19,9 @@ printf("%c", test[0]);
 
 ![image](https://user-images.githubusercontent.com/125560933/221756539-b15ef191-8538-4519-b0a0-58cfec8d50db.png)
 
+## Output of the program:
+
+![image](https://user-images.githubusercontent.com/125560933/228198213-54267005-53b1-4bf6-ab91-22ffcb7508f7.png)
+
+
 
